@@ -1,16 +1,20 @@
 body{
-    background-color: black;
+    background-color: rgb(235, 225, 225);
     text-align: center;
 }
 
 h1{
+    color: rgb(187, 32, 32);
+}
+
+.morango{
     color: brown;
 }
 
-.morango {
-    color: blueviolet;
+.moranguinho{
+    color: darkred;
 }
 
-.moranguinho {
-    color: chocolate;
+h2{
+    background-color: black;
 }
